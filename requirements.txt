@@ -3,3 +3,6 @@ pandas
 fastapi
 python-dotenv
 yfinance
+firecrawl-py
+fuzzywuzzy
+python-Levenshtein
