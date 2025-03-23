@@ -6,3 +6,5 @@ yfinance
 firecrawl-py
 fuzzywuzzy
 python-Levenshtein
+mftool
+matplotlib

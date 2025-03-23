@@ -1,9 +1,11 @@
 import json
-import re,os
+import re
+import os
 from firecrawl import FirecrawlApp
+import time
 from dotenv import load_dotenv
-load_dotenv()
 
+load_dotenv()
 
 def clean_holding_data(markdown_output):
     """
@@ -105,16 +107,74 @@ def clean_holding_data(markdown_output):
         cleaned_data.append(cleaned_row)
     return cleaned_data
 
-# Main code
+# Dictionary of mutual funds with schemeid as key and URL as value
+mf_dict = {
+    119364: 'https://www.moneycontrol.com/mutual-funds/bank-of-india-manufacturing-infrastructure-fund-direct-plan-growth/portfolio-holdings/MBA068',
+    125497: 'https://www.moneycontrol.com/mutual-funds/sbi-small-cap-fund-direct-plan-/portfolio-holdings/MSA031',
+    147662: 'https://www.moneycontrol.com/mutual-funds/icici-prudential-commodities-fund-direct-plan/portfolio-holdings/MPI4443',
+    120684: 'https://www.moneycontrol.com/mutual-funds/icici-prudential-nifty-50-index-fund-direct-plan/portfolio-holdings/MPI1144',
+    120505: 'https://www.moneycontrol.com/mutual-funds/axis-mid-cap-fund-direct-plan/portfolio-holdings/MAA194',
+    119212: 'https://www.moneycontrol.com/mutual-funds/dsp-small-cap-fund-direct-plan/portfolio-holdings/MDS584',
+    119775: 'https://www.moneycontrol.com/mutual-funds/kotak-emerging-equity-scheme-direct-plan/portfolio-holdings/MKM528',
+    135781: 'https://www.moneycontrol.com/mutual-funds/mirae-asset-elss-tax-saver-fund-direct-plan-growth/portfolio-holdings/MMA150',
+    118650: 'https://www.moneycontrol.com/mutual-funds/nippon-india-multi-cap-fund-direct-plan/portfolio-holdings/MRC914',
+    122639: 'https://www.moneycontrol.com/mutual-funds/parag-parikh-flexi-cap-fund-direct-plan/portfolio-holdings/MPP002',
+    119727: 'https://www.moneycontrol.com/mutual-funds/sbi-focused-equity-fund-direct-plan/portfolio-holdings/MSB536',
+    148703: 'https://www.moneycontrol.com/mutual-funds/uti-nifty200-momentum-30-index-fund-direct-plan-/portfolio-holdings/MUT3614'
+}
+
+# Initialize FirecrawlApp
 app = FirecrawlApp(api_key=os.getenv('FIRECRAWL_API_KEY'))
 
-response = app.scrape_url(url='https://www.moneycontrol.com/mutual-funds/kotak-emerging-equity-scheme-direct-plan/portfolio-holdings/MKM528', params={
-	'formats': [ 'markdown' ],
-})
+# Ensure output directory exists
+os.makedirs('data/mf_stock_breakdown_data', exist_ok=True)
 
-markdown_output = response['markdown']
+# Iterate through dictionary, scrape data, clean it, and save it to a file with retry logic
+for schemeid, url in mf_dict.items():
+    # Extract the mutual fund name for the JSON filename
+    fund_name = re.search(r'\/([^/]+)\/portfolio', url).group(1)
+    fund_name_clean = fund_name.replace("-", "_")  # Clean the fund name to be a valid filename
+    file_name = f'data/mf_stock_breakdown_data/{fund_name_clean}_{schemeid}.json'
+    
+    max_attempts = 3
+    attempt = 1
+    
+    while attempt <= max_attempts:
+        try:
+            # Scrape the markdown data
+            response = app.scrape_url(url=url, params={'formats': ['markdown']})
+            markdown_output = response['markdown']
+            
+            # Clean the holding data
+            cleaned_holding_data = clean_holding_data(markdown_output)
+            
+            # Check if the result is an empty list
+            if not cleaned_holding_data:  # If empty list []
+                print(f"Attempt {attempt}: Empty data for {fund_name} (Scheme ID: {schemeid})")
+                if attempt == max_attempts:
+                    print(f"Max attempts reached for {fund_name} (Scheme ID: {schemeid}). Saving empty list.")
+                    with open(file_name, 'w') as f:
+                        json.dump(cleaned_holding_data, f, indent=4)
+                    break
+                attempt += 1
+                time.sleep(2)  # Wait before retrying
+                continue
+            
+            # If data is not empty, save and break the retry loop
+            with open(file_name, 'w') as f:
+                json.dump(cleaned_holding_data, f, indent=4)
+            print(f"Data saved for {fund_name} (Scheme ID: {schemeid}): {file_name} on attempt {attempt}")
+            break
+            
+        except Exception as e:
+            print(f"Attempt {attempt}: Error for {fund_name} (Scheme ID: {schemeid}): {str(e)}")
+            if attempt == max_attempts:
+                print(f"Max attempts reached for {fund_name} (Scheme ID: {schemeid}). Saving empty list due to errors.")
+                with open(file_name, 'w') as f:
+                    json.dump([], f, indent=4)
+            attempt += 1
+            time.sleep(2)  # Wait before retrying
+    
+    time.sleep(5)  # Wait between different funds
 
-cleaned_holding_data = clean_holding_data(markdown_output)
-
-with open('cleaned_holding_data_kotak_emerging_eq.json', 'w') as f:
-    json.dump(cleaned_holding_data, f, indent=4)
+print("Processing complete.")
