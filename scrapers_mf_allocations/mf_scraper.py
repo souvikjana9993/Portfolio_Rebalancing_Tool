@@ -120,7 +120,10 @@ mf_dict = {
     118650: 'https://www.moneycontrol.com/mutual-funds/nippon-india-multi-cap-fund-direct-plan/portfolio-holdings/MRC914',
     122639: 'https://www.moneycontrol.com/mutual-funds/parag-parikh-flexi-cap-fund-direct-plan/portfolio-holdings/MPP002',
     119727: 'https://www.moneycontrol.com/mutual-funds/sbi-focused-equity-fund-direct-plan/portfolio-holdings/MSB536',
-    148703: 'https://www.moneycontrol.com/mutual-funds/uti-nifty200-momentum-30-index-fund-direct-plan-/portfolio-holdings/MUT3614'
+    148703: 'https://www.moneycontrol.com/mutual-funds/uti-nifty200-momentum-30-index-fund-direct-plan-/portfolio-holdings/MUT3614',
+    118285: 'https://www.moneycontrol.com/mutual-funds/canara-robeco-elss-tax-saver-fund-direct-plan/portfolio-holdings/MCA200',
+    # 140243:
+    # 145552:
 }
 
 # Initialize FirecrawlApp

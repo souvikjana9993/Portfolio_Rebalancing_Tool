@@ -1,0 +1,1794 @@
+[
+    {
+        "Stock Symbol": "RELIANCE",
+        "Direct Holding Weight (%)": 6,
+        "MF Holding Weight (%)": 0.46,
+        "Total Weight (%)": 6.46,
+        "actual_name": "RELIANCE"
+    },
+    {
+        "Stock Symbol": "BAJFINANCE",
+        "Direct Holding Weight (%)": 6,
+        "MF Holding Weight (%)": 0.41,
+        "Total Weight (%)": 6.41,
+        "actual_name": "BAJFINANCE"
+    },
+    {
+        "Stock Symbol": "KPITTECH",
+        "Direct Holding Weight (%)": 5,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 5,
+        "actual_name": "KPITTECH"
+    },
+    {
+        "Stock Symbol": "SOLARINDS",
+        "Direct Holding Weight (%)": 5,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 5.13,
+        "actual_name": "SOLARINDS"
+    },
+    {
+        "Stock Symbol": "TATAPOWER",
+        "Direct Holding Weight (%)": 5,
+        "MF Holding Weight (%)": 0.22,
+        "Total Weight (%)": 5.22,
+        "actual_name": "TATAPOWER"
+    },
+    {
+        "Stock Symbol": "KAYNES",
+        "Direct Holding Weight (%)": 5,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 5,
+        "actual_name": "KAYNES"
+    },
+    {
+        "Stock Symbol": "ZOMATO",
+        "Direct Holding Weight (%)": 5,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 5.16,
+        "actual_name": "ZOMATO"
+    },
+    {
+        "Stock Symbol": "TEJASNET",
+        "Direct Holding Weight (%)": 4.5,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 4.5,
+        "actual_name": "TEJASNET"
+    },
+    {
+        "Stock Symbol": "STARHEALTH",
+        "Direct Holding Weight (%)": 4,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 4,
+        "actual_name": "STARHEALTH"
+    },
+    {
+        "Stock Symbol": "POLYCAB",
+        "Direct Holding Weight (%)": 4,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 4.06,
+        "actual_name": "POLYCAB"
+    },
+    {
+        "Stock Symbol": "LALPATHLAB",
+        "Direct Holding Weight (%)": 4,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 4,
+        "actual_name": "LALPATHLAB"
+    },
+    {
+        "Stock Symbol": "VBL",
+        "Direct Holding Weight (%)": 4,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 4,
+        "actual_name": "VBL"
+    },
+    {
+        "Stock Symbol": "IDFCFIRSTB",
+        "Direct Holding Weight (%)": 4,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 4,
+        "actual_name": "IDFCFIRSTB"
+    },
+    {
+        "Stock Symbol": "KALYANKJIL",
+        "Direct Holding Weight (%)": 3.5,
+        "MF Holding Weight (%)": 0,
+        "Total Weight (%)": 3.5,
+        "actual_name": "KALYANKJIL"
+    },
+    {
+        "Stock Symbol": "HDFCBANK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 1.7,
+        "Total Weight (%)": 1.7,
+        "actual_name": "HDFC Bank Ltd."
+    },
+    {
+        "Stock Symbol": "AXISBANK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.84,
+        "Total Weight (%)": 0.84,
+        "actual_name": "Axis Bank Ltd."
+    },
+    {
+        "Stock Symbol": "ICICIBANK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 1.01,
+        "Total Weight (%)": 1.01,
+        "actual_name": "ICICI Bank Ltd."
+    },
+    {
+        "Stock Symbol": "LINDEINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.29,
+        "Total Weight (%)": 0.29,
+        "actual_name": "Linde India Ltd."
+    },
+    {
+        "Stock Symbol": "NTPC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.29,
+        "Total Weight (%)": 0.29,
+        "actual_name": "National Thermal Power Corporation Ltd."
+    },
+    {
+        "Stock Symbol": "INFY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.49,
+        "Total Weight (%)": 0.49,
+        "actual_name": "Infosys Ltd."
+    },
+    {
+        "Stock Symbol": "GVT&D",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.4,
+        "Total Weight (%)": 0.4,
+        "actual_name": "GE T&D India Ltd."
+    },
+    {
+        "Stock Symbol": "SBIN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.26,
+        "Total Weight (%)": 0.26,
+        "actual_name": "State Bank Of India"
+    },
+    {
+        "Stock Symbol": "EIHOTEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.25,
+        "Total Weight (%)": 0.25,
+        "actual_name": "EIH Ltd"
+    },
+    {
+        "Stock Symbol": "LT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.25,
+        "Total Weight (%)": 0.25,
+        "actual_name": "Larsen & Toubro Ltd."
+    },
+    {
+        "Stock Symbol": "MFSL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.36,
+        "Total Weight (%)": 0.36,
+        "actual_name": "Max Financial Services Ltd."
+    },
+    {
+        "Stock Symbol": "INDHOTEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.22,
+        "Total Weight (%)": 0.22,
+        "actual_name": "Indian Hotels Company Limited"
+    },
+    {
+        "Stock Symbol": "VESUVIUS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.2,
+        "Total Weight (%)": 0.2,
+        "actual_name": "Vesuvius India Ltd."
+    },
+    {
+        "Stock Symbol": "HDFCAMC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.19,
+        "Total Weight (%)": 0.19,
+        "actual_name": "HDFC Asset Management Co. Ltd."
+    },
+    {
+        "Stock Symbol": "SBICARD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.18,
+        "Total Weight (%)": 0.18,
+        "actual_name": "SBI Cards and Payment Services Ltd."
+    },
+    {
+        "Stock Symbol": "HCLTECH",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.51,
+        "Total Weight (%)": 0.51,
+        "actual_name": "HCL Technologies Limited"
+    },
+    {
+        "Stock Symbol": "KENNAMET",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "Kennametal India Ltd."
+    },
+    {
+        "Stock Symbol": "VOLTAS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.2,
+        "Total Weight (%)": 0.2,
+        "actual_name": "Voltas Limited"
+    },
+    {
+        "Stock Symbol": "HDFCLIFE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "HDFC Life Insurance Company Ltd."
+    },
+    {
+        "Stock Symbol": "MOTHERSON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Motherson Sumi Systems Ltd."
+    },
+    {
+        "Stock Symbol": "ABSLAMC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Aditya Birla Sun Life AMC Ltd."
+    },
+    {
+        "Stock Symbol": "NYKAA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "FSN E-Commerce Ventures Ltd."
+    },
+    {
+        "Stock Symbol": "ABB",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 0.16,
+        "actual_name": "ABB Power Products and Systems India Ltd."
+    },
+    {
+        "Stock Symbol": "VMM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Vishal Mega Mart Ltd."
+    },
+    {
+        "Stock Symbol": "JUBLFOOD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Jubilant Foodworks Ltd."
+    },
+    {
+        "Stock Symbol": "PVRINOX",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "PVR Inox Ltd."
+    },
+    {
+        "Stock Symbol": "BOSCHLTD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Bosch Ltd."
+    },
+    {
+        "Stock Symbol": "PAYTM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "One 97 Communications Ltd."
+    },
+    {
+        "Stock Symbol": "NAUKRI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Info Edge (India) Ltd."
+    },
+    {
+        "Stock Symbol": "DEVYANI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Devyani International Ltd."
+    },
+    {
+        "Stock Symbol": "ABBOTINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Abbott India Ltd."
+    },
+    {
+        "Stock Symbol": "AUBANK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Au Small Finance Bank Ltd."
+    },
+    {
+        "Stock Symbol": "KEC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "KEC International Ltd."
+    },
+    {
+        "Stock Symbol": "ZFCVINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "WABCO India Ltd."
+    },
+    {
+        "Stock Symbol": "RECLTD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Rural Electrification Corporation Limited"
+    },
+    {
+        "Stock Symbol": "BERGEPAINT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Berger Paints India Ltd."
+    },
+    {
+        "Stock Symbol": "GLAND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Gland Pharma Ltd."
+    },
+    {
+        "Stock Symbol": "CROMPTON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Crompton Greaves Consumer Electricals Ltd."
+    },
+    {
+        "Stock Symbol": "NTPCGREEN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "NTPC Green Energy Ltd."
+    },
+    {
+        "Stock Symbol": "DIVISLAB",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Divis Laboratories Ltd."
+    },
+    {
+        "Stock Symbol": "CGPOWER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "CG Power and Industrial Solutions Ltd."
+    },
+    {
+        "Stock Symbol": "VIJAYA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Vijaya Diagnostic Centre Ltd."
+    },
+    {
+        "Stock Symbol": "SHOPERSTOP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Shoppers Stop Limited"
+    },
+    {
+        "Stock Symbol": "DELHIVERY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Delhivery Ltd."
+    },
+    {
+        "Stock Symbol": "PAGEIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Page Industries Ltd."
+    },
+    {
+        "Stock Symbol": "GODREJCP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Tata Consumer Products Ltd."
+    },
+    {
+        "Stock Symbol": "TIMKEN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Timken India Ltd."
+    },
+    {
+        "Stock Symbol": "UTIAMC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "UTI Asset Management Co. Pvt. Ltd."
+    },
+    {
+        "Stock Symbol": "CIEINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "CIE AUTOMOTIVE INDIA Ltd."
+    },
+    {
+        "Stock Symbol": "SONACOMS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Sona BLW Precision Forgings Ltd."
+    },
+    {
+        "Stock Symbol": "MEDPLUS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Medplus Health Services Ltd."
+    },
+    {
+        "Stock Symbol": "TATASTEEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Tata Steel Ltd."
+    },
+    {
+        "Stock Symbol": "SCHNEIDER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Schneider Electric Infrastructure Ltd."
+    },
+    {
+        "Stock Symbol": "DALBHARAT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Dalmia Bharat Ltd."
+    },
+    {
+        "Stock Symbol": "CONCOR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Container Corporation Of India Ltd."
+    },
+    {
+        "Stock Symbol": "EMAMILTD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Emami Ltd."
+    },
+    {
+        "Stock Symbol": "EXIDEIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 0.16,
+        "actual_name": "Exide Industries Ltd."
+    },
+    {
+        "Stock Symbol": "AAVAS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Aavas Financiers Ltd."
+    },
+    {
+        "Stock Symbol": "SAPPHIRE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Sapphire Foods India Ltd."
+    },
+    {
+        "Stock Symbol": "LUPIN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Lupin Ltd."
+    },
+    {
+        "Stock Symbol": "SIEMENS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Siemens Ltd."
+    },
+    {
+        "Stock Symbol": "GILLETTE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Gillette India Ltd."
+    },
+    {
+        "Stock Symbol": "KANSAINER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Kansai Nerolac Paints Ltd."
+    },
+    {
+        "Stock Symbol": "TEAMLEASE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Teamlease Services Ltd."
+    },
+    {
+        "Stock Symbol": "SFL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Sheela Foam Ltd."
+    },
+    {
+        "Stock Symbol": "JBCHEPHARM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "J.b. Chemicals & Pharmaceuticals Ltd."
+    },
+    {
+        "Stock Symbol": "PFC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.17,
+        "Total Weight (%)": 0.17,
+        "actual_name": "Power Finance Corporation Ltd."
+    },
+    {
+        "Stock Symbol": "AJANTPHARM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Ajanta Pharma Limited"
+    },
+    {
+        "Stock Symbol": "ARE&M",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Amara Raja Batteries Limited"
+    },
+    {
+        "Stock Symbol": "3MINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "3M India Ltd."
+    },
+    {
+        "Stock Symbol": "SBILIFE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "SBI Life Insurance Co Ltd."
+    },
+    {
+        "Stock Symbol": "HYUNDAI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Hyundai Motor India Ltd."
+    },
+    {
+        "Stock Symbol": "PFIZER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Pfizer Ltd."
+    },
+    {
+        "Stock Symbol": "ULTRACEMCO",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Ultratech Cement Ltd."
+    },
+    {
+        "Stock Symbol": "UBL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "United Breweries Ltd."
+    },
+    {
+        "Stock Symbol": "CESC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Cesc Ltd."
+    },
+    {
+        "Stock Symbol": "NLCINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "NLC India Ltd."
+    },
+    {
+        "Stock Symbol": "SYNGENE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Syngene International Ltd."
+    },
+    {
+        "Stock Symbol": "COLPAL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Colgate - Palmolive (India) Limited"
+    },
+    {
+        "Stock Symbol": "AWFIS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Awfis Space Solutions Ltd."
+    },
+    {
+        "Stock Symbol": "NH",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.18,
+        "Total Weight (%)": 0.18,
+        "actual_name": "Narayana Hrudayalaya Ltd."
+    },
+    {
+        "Stock Symbol": "TATAMOTORS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Tata Motors Ltd."
+    },
+    {
+        "Stock Symbol": "KAJARIACER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Kajaria Ceramics Ltd."
+    },
+    {
+        "Stock Symbol": "VRLLOG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "VRL Logistic Ltd."
+    },
+    {
+        "Stock Symbol": "CHALET",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Chalet Hotels Ltd."
+    },
+    {
+        "Stock Symbol": "BHARATFORG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Bharat Forge Ltd."
+    },
+    {
+        "Stock Symbol": "SRF",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "SRF Ltd."
+    },
+    {
+        "Stock Symbol": "ABFRL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Aditya Birla Fashion and Retail Ltd."
+    },
+    {
+        "Stock Symbol": "CARERATING",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Care Ratings Ltd."
+    },
+    {
+        "Stock Symbol": "MAHLOG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Mahindra Logistics Ltd."
+    },
+    {
+        "Stock Symbol": "NIVABUPA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Niva Bupa Health Insurance Company Ltd."
+    },
+    {
+        "Stock Symbol": "EMCURE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Emcure Pharmaceuticals Ltd."
+    },
+    {
+        "Stock Symbol": "AFCONS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Afcons Infrastructure Ltd."
+    },
+    {
+        "Stock Symbol": "TRITURBINE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Triveni Turbine Ltd."
+    },
+    {
+        "Stock Symbol": "EMIL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Electronics Mart lndia Ltd."
+    },
+    {
+        "Stock Symbol": "INDIGOPNTS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Indigo Paints Ltd."
+    },
+    {
+        "Stock Symbol": "FINCABLES",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Finolex Cables Ltd."
+    },
+    {
+        "Stock Symbol": "SANOFI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Sanofi India Ltd."
+    },
+    {
+        "Stock Symbol": "MANYAVAR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Vedant Fashions Ltd."
+    },
+    {
+        "Stock Symbol": "SANOFICONR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Sanofi Consumer Healthcare India Ltd."
+    },
+    {
+        "Stock Symbol": "SAILIFE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Sai Life Sciences Ltd."
+    },
+    {
+        "Stock Symbol": "OLAELEC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Ola Electric Mobility Ltd."
+    },
+    {
+        "Stock Symbol": "CRAFTSMAN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Craftsman Automation Ltd."
+    },
+    {
+        "Stock Symbol": "WHIRLPOOL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Whirlpool Of India Ltd."
+    },
+    {
+        "Stock Symbol": "TCIEXP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "TCI Express Ltd."
+    },
+    {
+        "Stock Symbol": "VSTTILLERS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "VST Tillers Tractors Ltd."
+    },
+    {
+        "Stock Symbol": "BRIGADE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Brigade Enterprises Ltd."
+    },
+    {
+        "Stock Symbol": "SANSERA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Sansera Engineering Ltd."
+    },
+    {
+        "Stock Symbol": "CYIENTDLM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Cyient DLM Ltd."
+    },
+    {
+        "Stock Symbol": "KPIL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Kalpataru Power Transmission Ltd."
+    },
+    {
+        "Stock Symbol": "BAJAJCON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.01,
+        "Total Weight (%)": 0.01,
+        "actual_name": "Bajaj Consumer Care Ltd."
+    },
+    {
+        "Stock Symbol": "ITCHOTELS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "ITC Hotels Ltd"
+    },
+    {
+        "Stock Symbol": "BAJAJHLDNG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.8,
+        "Total Weight (%)": 0.8,
+        "actual_name": "Bajaj Holdings & Investment Ltd."
+    },
+    {
+        "Stock Symbol": "COALINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.68,
+        "Total Weight (%)": 0.68,
+        "actual_name": "Coal India Ltd."
+    },
+    {
+        "Stock Symbol": "POWERGRID",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.63,
+        "Total Weight (%)": 0.63,
+        "actual_name": "Power Grid Corporation of India Ltd."
+    },
+    {
+        "Stock Symbol": "ITC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.52,
+        "Total Weight (%)": 0.52,
+        "actual_name": "ITC Limited"
+    },
+    {
+        "Stock Symbol": "KOTAKBANK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.49,
+        "Total Weight (%)": 0.49,
+        "actual_name": "Kotak Mahindra Bank Ltd."
+    },
+    {
+        "Stock Symbol": "MARUTI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.47,
+        "Total Weight (%)": 0.47,
+        "actual_name": "Maruti Suzuki India Ltd."
+    },
+    {
+        "Stock Symbol": "Facebook",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.45,
+        "Total Weight (%)": 0.45,
+        "actual_name": "Facebook"
+    },
+    {
+        "Stock Symbol": "Alphabet Inc",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.36,
+        "Total Weight (%)": 0.36,
+        "actual_name": "Alphabet Inc"
+    },
+    {
+        "Stock Symbol": "M&M",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.34,
+        "Total Weight (%)": 0.34,
+        "actual_name": "Mahindra & Mahindra Ltd."
+    },
+    {
+        "Stock Symbol": "Microsoft Corp",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.33,
+        "Total Weight (%)": 0.33,
+        "actual_name": "Microsoft Corp"
+    },
+    {
+        "Stock Symbol": "Amazon.com",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.33,
+        "Total Weight (%)": 0.33,
+        "actual_name": "Amazon.com"
+    },
+    {
+        "Stock Symbol": "DRREDDY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Dr. Reddys Laboratories Ltd."
+    },
+    {
+        "Stock Symbol": "BALKRISIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.19,
+        "Total Weight (%)": 0.19,
+        "actual_name": "Balkrishna Industries Ltd."
+    },
+    {
+        "Stock Symbol": "CIPLA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Cipla Ltd."
+    },
+    {
+        "Stock Symbol": "ZYDUSLIFE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "Zydus Lifesciences Ltd."
+    },
+    {
+        "Stock Symbol": "MOTILALOFS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Motilal Oswal Financial Services Ltd."
+    },
+    {
+        "Stock Symbol": "IEX",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Indian Energy Exchange Ltd."
+    },
+    {
+        "Stock Symbol": "MCX",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Multi Commodity Exchange Of India Ltd."
+    },
+    {
+        "Stock Symbol": "IPCALAB",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.38,
+        "Total Weight (%)": 0.38,
+        "actual_name": "Ipca Laboratories Ltd."
+    },
+    {
+        "Stock Symbol": "CDSL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Central Depository Services (India) Ltd."
+    },
+    {
+        "Stock Symbol": "EIDPARRY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "EID-Parry (India) Ltd."
+    },
+    {
+        "Stock Symbol": "ICRA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "ICRA Ltd."
+    },
+    {
+        "Stock Symbol": "TCS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.01,
+        "Total Weight (%)": 0.01,
+        "actual_name": "Tata Consultancy Services Ltd."
+    },
+    {
+        "Stock Symbol": "BEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Bharat Electronics Ltd."
+    },
+    {
+        "Stock Symbol": "SWARAJENG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Swaraj Engines Ltd."
+    },
+    {
+        "Stock Symbol": "PIIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Pi Industries Ltd."
+    },
+    {
+        "Stock Symbol": "MANAPPURAM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Manappuram Finance Ltd."
+    },
+    {
+        "Stock Symbol": "FORTIS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.21,
+        "Total Weight (%)": 0.21,
+        "actual_name": "Fortis Healthcare Ltd."
+    },
+    {
+        "Stock Symbol": "MPHASIS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.18,
+        "Total Weight (%)": 0.18,
+        "actual_name": "Mphasis Ltd."
+    },
+    {
+        "Stock Symbol": "COROMANDEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.18,
+        "Total Weight (%)": 0.18,
+        "actual_name": "Coromandel International Ltd."
+    },
+    {
+        "Stock Symbol": "OBEROIRLTY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.17,
+        "Total Weight (%)": 0.17,
+        "actual_name": "Oberoi Realty Ltd."
+    },
+    {
+        "Stock Symbol": "OFSS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.17,
+        "Total Weight (%)": 0.17,
+        "actual_name": "Oracle Financial Services Software Limited"
+    },
+    {
+        "Stock Symbol": "PERSISTENT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 0.16,
+        "actual_name": "Persistent Systems Ltd."
+    },
+    {
+        "Stock Symbol": "JKCEMENT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 0.16,
+        "actual_name": "J.K. Cement Ltd."
+    },
+    {
+        "Stock Symbol": "DIXON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.15,
+        "Total Weight (%)": 0.15,
+        "actual_name": "Dixon Technologies (India) Ltd."
+    },
+    {
+        "Stock Symbol": "WIPRO",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Wipro Ltd."
+    },
+    {
+        "Stock Symbol": "BLUESTARCO",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "Blue Star Ltd."
+    },
+    {
+        "Stock Symbol": "BHARTIHEXA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "Bharti Hexacom Ltd."
+    },
+    {
+        "Stock Symbol": "SCHAEFFLER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Schaeffler India Ltd."
+    },
+    {
+        "Stock Symbol": "MEDANTA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Global Health Ltd."
+    },
+    {
+        "Stock Symbol": "SUPREMEIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Supreme Industries Ltd."
+    },
+    {
+        "Stock Symbol": "BSOFT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Birlasoft Ltd."
+    },
+    {
+        "Stock Symbol": "DEEPAKNTR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Deepak Nitrite Ltd."
+    },
+    {
+        "Stock Symbol": "MAXHEALTH",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Max Healthcare Institute Ltd."
+    },
+    {
+        "Stock Symbol": "ICICIGI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "ICICI Lombard General Insurance Co Ltd."
+    },
+    {
+        "Stock Symbol": "METROBRAND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Metro Brands Ltd."
+    },
+    {
+        "Stock Symbol": "HINDPETRO",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.1,
+        "Total Weight (%)": 0.1,
+        "actual_name": "Hindustan Petroleum Corporation Ltd."
+    },
+    {
+        "Stock Symbol": "LICHSGFIN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "LIC Housing Finance Ltd."
+    },
+    {
+        "Stock Symbol": "FEDERALBNK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Federal Bank Ltd."
+    },
+    {
+        "Stock Symbol": "RAMCOCEM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "The Ramco Cements Ltd."
+    },
+    {
+        "Stock Symbol": "NKIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Minda Industries Ltd."
+    },
+    {
+        "Stock Symbol": "KEI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "KEI Industries Ltd."
+    },
+    {
+        "Stock Symbol": "APARINDS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Apar Industries Ltd."
+    },
+    {
+        "Stock Symbol": "THERMAX",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Thermax Ltd."
+    },
+    {
+        "Stock Symbol": "OIL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Oil India Ltd."
+    },
+    {
+        "Stock Symbol": "AMBER",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.13,
+        "Total Weight (%)": 0.13,
+        "actual_name": "Amber Enterprises India Ltd."
+    },
+    {
+        "Stock Symbol": "TORNTPHARM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Torrent Pharmaceuticals Ltd."
+    },
+    {
+        "Stock Symbol": "RATNAMANI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.15,
+        "Total Weight (%)": 0.15,
+        "actual_name": "Ratnamani Metals & Tubes Ltd."
+    },
+    {
+        "Stock Symbol": "MRF",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "MRF Ltd."
+    },
+    {
+        "Stock Symbol": "EDELWEISS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Edelweiss Securities Pvt. Ltd."
+    },
+    {
+        "Stock Symbol": "APLAPOLLO",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "APL Apollo Tubes Ltd."
+    },
+    {
+        "Stock Symbol": "BSE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "BSE Ltd."
+    },
+    {
+        "Stock Symbol": "M&MFIN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Mahindra & Mahindra Financial Services Ltd."
+    },
+    {
+        "Stock Symbol": "APOLLOTYRE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Apollo Tyres Limited"
+    },
+    {
+        "Stock Symbol": "VGUARD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "V-Guard Industries Ltd."
+    },
+    {
+        "Stock Symbol": "TECHM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Tech Mahindra Ltd."
+    },
+    {
+        "Stock Symbol": "PRUDENT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Prudent Corporate Advisory Services Ltd."
+    },
+    {
+        "Stock Symbol": "SUNDRMFAST",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Sundram Fasteners Ltd."
+    },
+    {
+        "Stock Symbol": "TECHNOE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.15,
+        "Total Weight (%)": 0.15,
+        "actual_name": "Techno Electric & Engineering Co. Ltd."
+    },
+    {
+        "Stock Symbol": "HEXT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Hexaware Technologies Ltd."
+    },
+    {
+        "Stock Symbol": "ATUL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Atul Ltd."
+    },
+    {
+        "Stock Symbol": "JUBLINGREA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.23,
+        "Total Weight (%)": 0.23,
+        "actual_name": "Jubilant Ingrevia Ltd."
+    },
+    {
+        "Stock Symbol": "WELCORP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.22,
+        "Total Weight (%)": 0.22,
+        "actual_name": "Welspun Corp Ltd."
+    },
+    {
+        "Stock Symbol": "ECLERX",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.21,
+        "Total Weight (%)": 0.21,
+        "actual_name": "eClerx Services Ltd."
+    },
+    {
+        "Stock Symbol": "DODLA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.18,
+        "Total Weight (%)": 0.18,
+        "actual_name": "Dodla Dairy Ltd."
+    },
+    {
+        "Stock Symbol": "CYIENT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.17,
+        "Total Weight (%)": 0.17,
+        "actual_name": "Cyient Ltd."
+    },
+    {
+        "Stock Symbol": "SUPRAJIT",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.17,
+        "Total Weight (%)": 0.17,
+        "actual_name": "Suprajit Engineering Ltd."
+    },
+    {
+        "Stock Symbol": "SAFARI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.16,
+        "Total Weight (%)": 0.16,
+        "actual_name": "Safari Industries (India) Ltd."
+    },
+    {
+        "Stock Symbol": "LTFOODS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.15,
+        "Total Weight (%)": 0.15,
+        "actual_name": "LT Foods Ltd."
+    },
+    {
+        "Stock Symbol": "TRIVENI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.15,
+        "Total Weight (%)": 0.15,
+        "actual_name": "Triveni Engineering & Industries Ltd."
+    },
+    {
+        "Stock Symbol": "LUMAXTECH",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.14,
+        "Total Weight (%)": 0.14,
+        "actual_name": "Lumax Auto Technologies Ltd."
+    },
+    {
+        "Stock Symbol": "THANGAMAYL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "Thangamayil Jewellery Ltd."
+    },
+    {
+        "Stock Symbol": "TCPLPACK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.12,
+        "Total Weight (%)": 0.12,
+        "actual_name": "TCPL Packaging Ltd."
+    },
+    {
+        "Stock Symbol": "DHANUKA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.11,
+        "Total Weight (%)": 0.11,
+        "actual_name": "Dhanuka Agritech Ltd."
+    },
+    {
+        "Stock Symbol": "ACI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Archean Chemical Industries Ltd."
+    },
+    {
+        "Stock Symbol": "VTL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Vardhman Textiles Ltd."
+    },
+    {
+        "Stock Symbol": "NAVINFLUOR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Navin Flourine International Ltd."
+    },
+    {
+        "Stock Symbol": "IFBIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "IFB Industries Ltd"
+    },
+    {
+        "Stock Symbol": "NILKAMAL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Nilkamal Ltd."
+    },
+    {
+        "Stock Symbol": "AARTIDRUGS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Aarti Drugs Ltd."
+    },
+    {
+        "Stock Symbol": "WESTLIFE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.09,
+        "Total Weight (%)": 0.09,
+        "actual_name": "Westlife Development Ltd."
+    },
+    {
+        "Stock Symbol": "CAMPUS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Campus Activewear Ltd."
+    },
+    {
+        "Stock Symbol": "KIRLOSENG",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Kirloskar Oil Engines Ltd."
+    },
+    {
+        "Stock Symbol": "RAINBOW",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Rainbow Childrens Medicare Ltd."
+    },
+    {
+        "Stock Symbol": "SHRIPISTON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Shriram Pistons & Rings Ltd."
+    },
+    {
+        "Stock Symbol": "VOLTAMP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.08,
+        "Total Weight (%)": 0.08,
+        "actual_name": "Voltamp Transformers Ltd."
+    },
+    {
+        "Stock Symbol": "GREENLAM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "Greenlam Industries Ltd."
+    },
+    {
+        "Stock Symbol": "GHCL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "GHCL Ltd."
+    },
+    {
+        "Stock Symbol": "SPAL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.07,
+        "Total Weight (%)": 0.07,
+        "actual_name": "SP Apparels Ltd."
+    },
+    {
+        "Stock Symbol": "KSL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Kalyani Steels Ltd."
+    },
+    {
+        "Stock Symbol": "LAOPALA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "La-Opala RG Ltd."
+    },
+    {
+        "Stock Symbol": "PRINCEPIPE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Prince Pipes and Fittings Ltd."
+    },
+    {
+        "Stock Symbol": "JUSTDIAL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Just Dial Ltd."
+    },
+    {
+        "Stock Symbol": "PARADEEP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Paradeep Phosphates Ltd."
+    },
+    {
+        "Stock Symbol": "ROLEXRINGS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.06,
+        "Total Weight (%)": 0.06,
+        "actual_name": "Rolex Rings Private Ltd."
+    },
+    {
+        "Stock Symbol": "BOROLTD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Borosil Ltd."
+    },
+    {
+        "Stock Symbol": "APLLTD",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Alembic Pharmaceuticals Ltd."
+    },
+    {
+        "Stock Symbol": "ERIS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Eris Lifesciences Ltd."
+    },
+    {
+        "Stock Symbol": "MOLDTKPAC",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Mold-Tek Packaging Ltd."
+    },
+    {
+        "Stock Symbol": "SHARDACROP",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Sharda Cropchem Ltd."
+    },
+    {
+        "Stock Symbol": "HARSHA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.05,
+        "Total Weight (%)": 0.05,
+        "actual_name": "Harsha Engineers International Ltd."
+    },
+    {
+        "Stock Symbol": "RRKABEL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "R R Kabel Ltd."
+    },
+    {
+        "Stock Symbol": "SANDHAR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Sandhar Technologies Ltd."
+    },
+    {
+        "Stock Symbol": "AMRUTANJAN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Amrutanjan Health Care Ltd."
+    },
+    {
+        "Stock Symbol": "ENGINERSIN",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Engineers India Ltd."
+    },
+    {
+        "Stock Symbol": "ANANDRATHI",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Anand Rathi Wealth Services Ltd."
+    },
+    {
+        "Stock Symbol": "EQUITASBNK",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "Equitas Small Finance Bank Ltd."
+    },
+    {
+        "Stock Symbol": "KNRCON",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.04,
+        "Total Weight (%)": 0.04,
+        "actual_name": "KNR Constructions"
+    },
+    {
+        "Stock Symbol": "STYLAMIND",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Stylam Industries Ltd."
+    },
+    {
+        "Stock Symbol": "WSTCSTPAPR",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "West Coast Paper Mills Ltd."
+    },
+    {
+        "Stock Symbol": "RSYSTEMS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "R Systems International Ltd."
+    },
+    {
+        "Stock Symbol": "HLEGLAS",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "HLE Glasscoat Ltd."
+    },
+    {
+        "Stock Symbol": "HAPPYFORGE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Happy Forgings Ltd."
+    },
+    {
+        "Stock Symbol": "SUDARSCHEM",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.03,
+        "Total Weight (%)": 0.03,
+        "actual_name": "Sudarshan Chemical Industries Ltd."
+    },
+    {
+        "Stock Symbol": "PNBHOUSING",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "PNB Housing Finance Ltd."
+    },
+    {
+        "Stock Symbol": "CARYSIL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Acrysil Ltd."
+    },
+    {
+        "Stock Symbol": "CENTURYPLY",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Century Plyboards India Ltd."
+    },
+    {
+        "Stock Symbol": "JNKINDIA",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "JNK India Ltd."
+    },
+    {
+        "Stock Symbol": "GRAPHITE",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.02,
+        "Total Weight (%)": 0.02,
+        "actual_name": "Graphite India Ltd."
+    },
+    {
+        "Stock Symbol": "GHCLTEXTIL",
+        "Direct Holding Weight (%)": 0,
+        "MF Holding Weight (%)": 0.01,
+        "Total Weight (%)": 0.01,
+        "actual_name": "GHCL Textiles Ltd."
+    }
+]

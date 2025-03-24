@@ -1,6 +1,6 @@
 .venv/
 __pycache__/
 __pycache__/*.pyc
-*.json
-data/
+data/mf_stock_breakdown_data/
+data/portfolio_data/
 .env
